@@ -30,7 +30,7 @@
 ---
 
 
-![github contribution snake](https://raw.githubusercontent.com/drknzz/drknzz/output/github-contribution-grid-snake.svg)
+![github contribution snake](https://raw.githubusercontent.com/Naveen14k/Naveen14k/output/github-contribution-grid-snake.svg)
 
 
 ## 📬 Connect With Me
