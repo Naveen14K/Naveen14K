@@ -2,11 +2,16 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F700&width=500&height=60&lines=Hey!+I'm+Rohan+(drknzz)+%F0%9F%91%8B;AI+%26+DS+Engineer+%F0%9F%A7%96%E2%80%8D%E2%99%82%EF%B8%8F;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A+Coding+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F700&width=500&height=60&lines=Hey!+I'm+Naveen+Prasath+%F0%9F%91%8B;AI+%26+DS+Engineer+%F0%9F%A7%96%E2%80%8D%E2%99%82%EF%B8%8F;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A+Coding+%E2%9C%A8" />
 </p>
 
+
+
+
+
+
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
 </p>
 
 ---
@@ -130,6 +135,7 @@ while (!success) {
    keepTrying();
    learnFromMistakes();
 }
+
 
 
 ## 📜 Quote of the Day
