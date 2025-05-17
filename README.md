@@ -29,20 +29,16 @@
 
 ---
 
-
-![github contribution snake](https://raw.githubusercontent.com/Naveen14k/Naveen14k/output/github-contribution-grid-snake.svg)
-
-
 ## 📬 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/drknzz" target="_blank">
+  <a href="https://www.linkedin.com/in/drknzz" target="https://www.linkedin.com/in/naveen-prasath-442566325/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:drknzz@example.com">
+  <a href="mailto:prasathnaveen255@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/drknzz">
+  <a href="https://github.com/Naveen14k">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -97,12 +93,10 @@
 
 ## 🏆 Achievements & Badges
 
-- 🥇 Conducted the **Short Film Competition – Rhythms 2024**  
+- 🥇 Participated the **Short Film Competition – Rhythms 2024**  
 - 🧠 Participated in **International AI Day**  
 - 🤖 Built:  
-  - Drowsiness Detection using Face Analysis  
-  - Sentiment Analysis App  
-  - Student Monitoring System  
+  - Gas Leakage detection system with auto off using arduino
   - Multiple ESP32-based robotics projects  
 - 🥼 Built AR/VR-based medical visualization prototypes  
 - 🔧 PBL Project: Full Stack App with Java & React
